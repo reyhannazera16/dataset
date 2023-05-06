@@ -1,0 +1,22 @@
+Desa,X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,Kelas,
+Atang Sanjaya,4,35,2,1,16,14,18,3,2,14,3,109
+Bojong,3,21,2,1,17,18,15,1,1,16,2,95
+Jampang,7,24,3,2,4,4,4,2,3,4,2,57
+Kemang,18,29,3,2,24,28,26,3,1,26,3,160
+Pabuaran,2,29,1,1,0,0,0,2,1,0,1,36
+Parakan Jaya,5,25,2,1,1,1,1,1,2,1,1,40
+Pondok Udik,5,26,2,2,1,1,1,2,2,1,1,43
+Semplak,3,13,1,1,3,3,2,3,1,3,1,33
+Tegal,5,47,1,1,18,24,21,3,1,20,3,141
+,,,,,,,,,,,,
+,Variable Smart Community,,,,,,,,,,,
+,Fasilitas Umum,,,x1,,Kurang Potensial = 1,,,,,,
+,UMKM,,,x2,,Potensial = 2,,,,,,
+,Keadaan Darurat/Medis,,,x3,,Sangat Potensial = 3,,,,,,
+,Keamanan Publik,,,x4,,,,,,,,
+,Pembangunan Ekonomi,,,x5,,,,,,,,
+,Penataan Kawasan,,,x6,,,,,,,,
+,Pengembangan Masyarakat,,,x7,,,,,,,,
+,Transportasi,,,x8,,,,,,,,
+,Bank,,,x9,,,,,,,,
+,Internet,,,x10,,,,,,,,
