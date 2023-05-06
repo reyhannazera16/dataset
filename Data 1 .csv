@@ -1,0 +1,22 @@
+Desa;X1;X2;X3;X4;X5;X6;X7;X8;X9;X10;Kelas
+Atang Sanjaya;-;-;-;-;16;14;18;-;-;14;Potensi
+Bojong;-;-;-;-;17;18;15;-;-;16;Potensi
+Jampang;-;-;-;-;4;4;4;-;-;4;Potensi
+Kemang;-;-;-;-;24;28;26;-;-;26;Potensi
+Pabuaran;0;0;0;0;0;0;0;0;0;0;Potensi
+Parakan Jaya;-;-;-;-;1;1;1;-;-;1;Potensi
+Pondok Udik;-;-;-;-;1;1;1;-;-;1;Potensi
+Semplak;-;-;-;-;3;3;2;-;-;3;Potensi
+Tegal;-;-;-;-;18;24;21;-;-;20;Potensi
+;;;;;;;;;;;
+;Variable Smart Community;;;;;;;;;;
+;Fasilitas Umum;;;x1;;;;;;;
+;Pemadam ;;;x2;;;;;;;
+;Keadaan Darurat/Medis;;;x3;;;;;;;
+;Keamanan Publik;;;x4;;;;;;;
+;Pembangunan Ekonomi;;;x5;;;;;;;
+;Penataan Kawasan;;;x6;;;;;;;
+;Pengembangan Masyarakat;;;x7;;;;;;;
+;Transportasi;;;x8;;;;;;;
+;Utilitas;;;x9;;;;;;;
+;Internet;;;x10;;;;;;;
